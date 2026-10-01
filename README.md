@@ -5,7 +5,7 @@
 ## 게임 소개
 
 - 장르: 2D 턴제 덱빌딩
-- 엔진: 언리얼 5
+- 엔진: 언리얼 5.8.3
 
 ## 주요 특징
 
@@ -31,7 +31,7 @@
 
 ## 개발 환경
 
-- Unreal Engine 5
+- Unreal Engine 5.8.3
 - Blueprint
 - Windows
 
